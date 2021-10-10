@@ -1,5 +1,5 @@
 # Sentiment-analysis-of-financial-news-data
-This was developed as part of a study oriented project for 6th sem 2016-2017. It has been evolving since then.
+This project analyze Indian business news to perform sentiment analysis and potential stocks prediction 
 
 Currently it fetches all the urls and scrapes data from the google search results and news archives of  
   * economictimes.indiatimes.com
